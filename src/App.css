@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWD7RJnfPXKDiWM0uNsQe0AVds7dztfPkGaQ&usqp=CAU");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* max-height: 70%; */
+}
